@@ -1,5 +1,6 @@
 # JavaScript-Primary-Projets
 https://pig-game-oknos.netlify.app/
+https://bankist-oknos.netlify.app/
 
 ## 1. Guess my number
 
