@@ -5,6 +5,8 @@ https://bankist-oknos.netlify.app/
 
 https://bankist-advanced-oknos.netlify.app
 
+https://mapty-oknos.netlify.app
+
 ## 1. Guess my number
 
 1. 取得输入的值
